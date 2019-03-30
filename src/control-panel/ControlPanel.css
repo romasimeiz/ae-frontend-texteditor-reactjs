@@ -10,3 +10,15 @@
     width: 200px;
     margin-right: 400px;
 }
+
+.fontWeight {
+    font-weight: bold;
+}
+
+.textDecoration {
+    text-decoration: underline;
+}
+
+.fontStyle {
+    font-style: italic;
+}
